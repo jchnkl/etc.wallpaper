@@ -1,8 +1,5 @@
 *
-!/.gitignore.d
 !/.gitignore.d/wallpaper
-!/.wallpaper
-!/".wallpaper
 !/.wallpaper/allee_2560x1600.jpg
 !/".wallpaper/Arnold_B\303\266cklin_-_Die_Toteninsel.jpg"
 !/.wallpaper/blue_marble_east_2048.jpg
@@ -57,8 +54,6 @@
 !/.wallpaper/the_planetary_suite.jpg
 !/.wallpaper/Trees-Autumn-Fields.jpg
 !/".wallpaper/Typhoon Nabi as seen from the ISS [2858\303\2271705].jpg"
-!/.wallpaper/van_gogh
-!/".wallpaper/van_gogh
 !/.wallpaper/van_gogh/Van_Gogh_-_Drei_Sonnenblumen_in_einer_Vase.jpeg
 !/.wallpaper/van_gogh/Van_Gogh_-_Weizenfeld_mit_Hocken.jpeg
 !/".wallpaper/van_gogh/Van_Gogh_-_Zw\303\266lf_Sonnenblumen_in_einer_Vase1.jpeg"
